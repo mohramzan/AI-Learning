@@ -1,0 +1,19 @@
+
+Information Retrieval
+
+Information retrieval is the process of finding documents relevant
+to a question.
+
+A basic keyword search compares words in a query with words in
+documents. It is simple to implement but can miss relevant
+documents when different words express the same concept.
+
+Semantic search uses representations such as vector embeddings
+to identify related meanings, even when the exact words differ.
+
+Retrieval-augmented generation, or RAG, combines document retrieval
+with language model generation. The retrieved information provides
+context for the model's answer.
+
+The quality of a RAG system depends on retrieval quality,
+document quality, and how the model uses the retrieved evidence.

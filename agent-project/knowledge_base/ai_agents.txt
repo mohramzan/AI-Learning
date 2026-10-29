@@ -1,0 +1,15 @@
+
+AI Agents
+
+An AI agent is a software system that uses a language model to
+interpret a goal and decide what actions to take.
+
+A simple agent may use a model, a collection of tools, and a loop
+that continues until the task is complete.
+
+Agents can use tools to perform calculations, search documents,
+retrieve information, or interact with external services.
+
+An agent is not necessarily fully autonomous. Its behaviour depends
+on its instructions, available tools, and the control logic in its
+application.

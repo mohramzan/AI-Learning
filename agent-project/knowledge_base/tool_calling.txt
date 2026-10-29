@@ -1,0 +1,18 @@
+
+Tool Calling
+
+Tool calling allows a language model to request that an application
+execute a particular function.
+
+The application describes available tools to the model, including
+their names, purposes, and argument formats.
+
+When the model requests a tool, the application should validate
+the requested function and its arguments before execution.
+
+The application then sends the tool result back to the model.
+The model can use that result to produce an answer or request
+another tool.
+
+The model does not directly execute Python functions. The
+application is responsible for executing them.
