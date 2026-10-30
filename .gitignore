@@ -1,0 +1,5 @@
+agent-project/.venv/
+agent-project/venv/
+agent-project/.env
+agent-project/__pycache__/
+agent-project/.vscode/
